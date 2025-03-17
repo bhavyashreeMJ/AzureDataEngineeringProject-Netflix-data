@@ -1,0 +1,5 @@
+Creating the pipeline in Azure Data Factory to extract data 
+FROM
+GitHub repository (SourceData) -> validates it -> loads its 
+INTO 
+DataLake(ADLS gen2 storage account)
